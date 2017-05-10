@@ -3,9 +3,7 @@
  * Created by trein on 10.05.17.
  */
 public class Bank {
-
     public void transferMoney(Account acc1, Account acc2, int amount) throws InterruptedException {
-
 
         StringBuilder sb = new StringBuilder();
 
